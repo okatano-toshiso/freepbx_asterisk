@@ -1,0 +1,9 @@
+# 無視するディレクトリ
+certs/*
+data/*
+db/*
+dbbackup/*
+logs/*
+
+# 特定のファイルを無視
+*.log
